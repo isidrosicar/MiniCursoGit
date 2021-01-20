@@ -16,7 +16,7 @@ public class NewMain {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hola Mundo");
+        System.out.println("Hola Mundo Testing, estamos en capacitacion");
         
         System.out.println("Hola, mundo");
     }
