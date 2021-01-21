@@ -16,7 +16,7 @@ public class NewMain {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("Hola MundoDisco");
+        System.out.println("Hola Mundo Disco");
         
         System.out.println("Hola, tierra plana");
     }
