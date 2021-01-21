@@ -5,6 +5,9 @@
  */
 package com.isidro.minicursogit;
 
+import java.util.Locale;
+import javax.swing.JOptionPane;
+
 /**
  *
  * @author Isidro
@@ -17,9 +20,8 @@ public class NewMain {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola Mundo Disco");
-        
+        JOptionPane.showMessageDialog(null, "Hola Mundo");
         System.out.println("Hola, tierra plana");
-	Marco
     }
     
 }
